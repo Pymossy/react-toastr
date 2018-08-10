@@ -3,7 +3,8 @@
 
 [![Version][npm-image]][npm-url] [![Travis CI][travis-image]][travis-url] [![Quality][codeclimate-image]][codeclimate-url] [![Coverage][codeclimate-coverage-image]][codeclimate-coverage-url] [![Dependencies][gemnasium-image]][gemnasium-url] [![Gitter][gitter-image]][gitter-url]
 
-
+Here(https://codesandbox.io/s/rl0xpx7k64) is a working example with usage of animate.css and JQuery.
+[![Edit rl0xpx7k64](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/rl0xpx7k64)
 ## [Introduction](https://tomchentw.github.io/react-toastr/#introduction)
 
 
